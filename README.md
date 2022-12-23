@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="120" src="<a href="https://script-pastebin.com">https://script-pastebin.com</a>/static/images/logo.png"  />
+  <img height="120" src="https://script-pastebin.com/static/images/logo.png"  />
 </div>
 
 ###
