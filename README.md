@@ -1,62 +1,46 @@
-## Hey 👋 Robloxian Glad to see you here!  
-  
+<h1 align="left">Hey 👋 Robloxian Glad to see you here!</h1>
 
-<div align="center">More 5500 Roblox Scripts Pastebin. Daily script updates for various Roblox Mode, all are free and safe. Our quality control assures an unbeatable experience!
-
-
-Get Best Verified Script Pastebin Roblox on :
-
-https://script-pastebin.com
-
-Best alternative  Pastebin for verified Script Pastebin:
-
-https://scriptpastebin.io
-</div>  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-👋 Hi, I’m @Script-Pastebin
-
-👀 I’m interested in Script Pastebin for Roblox
-
-🌱 I’m currently learning LUA Exploiting
-
-📫 Find more verified script pastebin for roblox on https://script-postebin.com
-
-👀 The best pastebin aalternative for verified script pastebin: https://scriptpastebin.io
-
-
-</td><td valign="top" width="50%">
+###
 
 <div align="center">
-<img src="https://script-pastebin.com/static/images/logo.png" align="center" style="width: 100%" />
-</div>  
+  <img height="120" src="<a href="https://script-pastebin.com">https://script-pastebin.com</a>/static/images/logo.png"  />
+</div>
 
+###
 
-</td></tr></table>  
+<p align="center">More 5500 Roblox Scripts Pastebin. Daily script updates for various Roblox Mode, all are free and safe. Our quality control assures an unbeatable experience!<br>Get Best Verified Script Pastebin Roblox on :<br><br><a href="https://script-pastebin.com">https://script-pastebin.com</a><br><br>Best alternative Pastebin for verified Script Pastebin:<br><br><a href="https://scriptpastebin.io">https://scriptpastebin.io</a></p>
 
-<br/>  
+###
 
-<br/>  
+<h2 align="left">About Us</h2>
 
+###
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p align="left">👋 Hi, we're @Script-Pastebin<br>👀 we're interested in Script Pastebin for Roblox<br>🌱 we're currently specializing  in LUA Exploiting<br>📫 Find more verified script pastebin for roblox on https://script-postebin.com<br>👀 The best pastebin aalternative for verified script pastebin: <a href="https://scriptpastebin.io">https://scriptpastebin.io</a></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=script-pastebin&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+###
 
-</td><td valign="top" width="50%">
+<h2 align="left">I code with</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=script-pastebin&hide_border=true&layout=compact" align="left" style="width: 100%" />
+###
 
-</td></tr></table>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo"  />
+</div>
 
-<br/>  
-<br/>  
-![Profile views counter](https://komarev.com/ghpvc/?username=script-pastebin&&style=flat-square)  
-<br/>  
-<br />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=script-pastebin" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=script-pastebin" height="150" alt="languages graph"  />
+</div>
+
+###
