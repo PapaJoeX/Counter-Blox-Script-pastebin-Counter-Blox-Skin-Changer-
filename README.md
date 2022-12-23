@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Hi, we're @Script-Pastebin<br>👀 we're interested in Script Pastebin for Roblox<br>🌱 we're currently specializing  in LUA Exploiting<br>📫 Find more verified script pastebin for roblox on https://script-postebin.com<br>👀 The best pastebin aalternative for verified script pastebin: <a href="https://scriptpastebin.io">https://scriptpastebin.io</a></p>
+<p align="left">👋 Hi, we're @Script-Pastebin<br>👀 we're interested in Script Pastebin for Roblox<br>🌱 we're currently specializing  in LUA Exploiting<br>📫 Find more verified script pastebin for roblox on https://script-pastebin.com<br>👀 The best pastebin aalternative for verified script pastebin: <a href="https://scriptpastebin.io">https://scriptpastebin.io</a></p>
 
 ###
 
